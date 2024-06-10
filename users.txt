@@ -1,0 +1,11 @@
+diep peid admin
+user resu user
+admin nimda admin
+john nhoj user
+eve eve admin
+guest tseug guest
+jane enaj admin
+alice ecila user
+bob bob admin
+charlie eilrahc user
+dave evad user

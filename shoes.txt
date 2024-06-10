@@ -1,0 +1,10 @@
+1 Nike_Air MaxNike 120.5 50
+2 Adidas_UltraBoost Adidas 150 30
+3 Puma_Runner Puma 80 20
+4 Reebok_ZigKinetica Reebok 110 40
+5 Asics_GelNimbus Asics 140 25
+6 NewBalance_FreshFoam NewBalance 130 35
+7 UnderArmour_HOVR UnderArmour 125 45
+8 Saucony_Endorphin Saucony 135 30
+9 Brooks_Glycerin Brooks 145 20
+10 Mizuno_WaveRider Mizuno 115 50

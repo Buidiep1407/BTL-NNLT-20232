@@ -1,0 +1,11 @@
+
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "code-runner.executorMap": {
+        "cpp": "g++ main.cpp ShoeManage.cpp UserManage.cpp -o main && ./main"
+    },
+    "code-runner.clearPreviousOutput": true
+}
